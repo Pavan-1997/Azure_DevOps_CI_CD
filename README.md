@@ -2,15 +2,15 @@
 
 1. Go to the dev.azure.com
 
-Pipelines -> Releases
-
-Release Pipeline doesnot provide YAML starter pipeline. Hence mostly the CI/CD is implemented using the Build Pipline
-
-Click on Azure App Service Deployment
-
-Give a Stage name - Test Deployment
-
-Now go to Artifacts -> Click on Add an artifact -> Select Build -> Project - Netflix -> Source - Netflix-Clone -> Default version - Latest -> Click on Add
+    Pipelines -> Releases
+    
+    Release Pipeline doesnot provide YAML starter pipeline. Hence mostly the CI/CD is implemented using the Build Pipline
+    
+    Click on Azure App Service Deployment
+    
+    Give a Stage name - Test Deployment
+    
+    Now go to Artifacts -> Click on Add an artifact -> Select Build -> Project - Netflix -> Source - Netflix-Clone -> Default version - Latest -> Click on Add
 
 
 2. Click on the Continuous deployment trigger -> Select Enable -> Click on Add -> Type - Include | Build branch - main
