@@ -18,7 +18,7 @@
 
 3. Click on the Pre-deployment conditions -> Select trigger - After release  -> Select Enable for Artifacts filters -> Click on Add -> Type - Include | Build branch - main
 
-Click on Enable for Gates -> Click on + Add -> Select Query Work Items
+   Click on Enable for Gates -> Click on + Add -> Select Query Work Items
 
 
 4. Now go to Boards -> Work items -> Click on New Work Item -> Select Task -> Name - Qaulity gate check ->  State - Doing  -> Click on Save 
