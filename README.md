@@ -70,5 +70,7 @@
 
 12. Now access the Web App Service URL prod which should show you the application 
 
+![Prodcution](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/ce7980f5-3d79-4c1f-a68e-86b8296b30d3)
+
 
 13. Now go to the Azure portal -> Click on the Web App service -> Click on Deployment slots on the left -> You will see the 100% traffic is directed to the prod URL -> Click on Swap on the top -> Source - staging | Target - prod -> Click on Swap
