@@ -71,7 +71,9 @@
     
     Now the Pre-deployment gate will succeed in next 5 minutes 
 
-    For Prod Deployment you will be requiring approval - self, you will also be getting an email as below 
+    For Prod Deployment you will be requiring approval - self, you will also be getting an email as below
+
+![Release2](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/7b49b2a4-afd6-4bd9-8517-993894dff429)
 
 ![Email](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/fdf6e973-f414-45ec-a2a2-be4422592a37)
 
