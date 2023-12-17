@@ -79,6 +79,8 @@
 
 ![Release3](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/0a195a53-61c3-49ef-9144-42b12a1cf72a)
 
+![Approve-Done](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/40e323c9-03ee-4b69-ba0b-0e2bd904ad1e)
+
 ![Gate-Check-Prod](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/72d6ad62-dfa7-4b93-ab13-676363a36d70)
 
 ![Release1](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/8c9823d5-3eda-4a1a-9e15-e5eb3d08a289)
@@ -89,7 +91,7 @@
 
 
 
-13. Now access the Web App Service URL prod which should show you the application 
+12. Now access the Web App Service URL prod which should show you the application 
 
 ![Prodcution](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/ce7980f5-3d79-4c1f-a68e-86b8296b30d3)
 
