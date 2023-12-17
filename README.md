@@ -37,9 +37,9 @@
 
 6.  Now click on stage job,task -> Select your Azure subscription -> Click on Authorize which creates a service connection -> App type - Web App on Linux -> Select the App service name that was created earlier
 
-Now click on Run on Agent -> Agent Pool - Self hosted 
-
-Click on Deploy Azure App Service -> Select Deploy to Slot or App Service Enviroment -> Resource group <> -> Slot  
+    Now click on Run on Agent -> Agent Pool - Self hosted 
+    
+    Click on Deploy Azure App Service -> Select Deploy to Slot or App Service Enviroment -> Resource group <> -> Slot  
 
 
 7. Now go to the Azure portal -> Click on the Web App service -> Click on Deployment slots on the left -> Click on the Add a slot -> Name - staging -> Clone settings from - spavanraj97 -> Click on Add
