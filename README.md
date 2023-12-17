@@ -50,9 +50,9 @@
 
 9. Go back to the pipeline created in the previous step -> Click on Edit -> Click on Clone the last stage -> Name - Prod Deployment
 
-Click on Pre-deployment conditions -> Click on Enable for Pre-deployment approvals -> Approvers - Self 
-
-Click on job,tasks -> Click on Deploy Azure App Service -> Uncheck Deploy to Slot or App Service Enviroment -> Click on Save
+    Click on Pre-deployment conditions -> Click on Enable for Pre-deployment approvals -> Approvers - Self 
+    
+    Click on job,tasks -> Click on Deploy Azure App Service -> Uncheck Deploy to Slot or App Service Enviroment -> Click on Save
 
 
 10. Now trigger the Build Pipeline 
