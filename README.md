@@ -60,10 +60,10 @@
 
 11. Now the Release pipeline will be triggered -> Will fail in Pre-deployment gates because we have a blocking work item as Doing 
 
-So go back to the Boards -> Work Items -> Select the item -> Change the State from Doing to Done -> Click on Save 
-
-Now the Pre-deployment gate will succeed in next 5 minutes 
-
+    So go back to the Boards -> Work Items -> Select the item -> Change the State from Doing to Done -> Click on Save 
+    
+    Now the Pre-deployment gate will succeed in next 5 minutes 
+    
 
 12. Now access the Web App Service URL prod which should show you the application 
 
