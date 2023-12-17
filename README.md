@@ -60,6 +60,8 @@
 
 10. Now trigger the Build Pipeline 
 
+![Build](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/214b0394-504d-428d-8b79-f69348d5fe75)
+
 
 11. Now the Release pipeline will be triggered -> Will fail in Pre-deployment gates because we have a blocking work item as Doing 
 
