@@ -73,15 +73,13 @@
 
     For Prod Deployment you will be requiring approval - self, you will also be getting an email as below 
 
-![Approve-Done](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/b37abb9f-fb05-46d5-986a-522a2de2622e)
-
 ![Email](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/fdf6e973-f414-45ec-a2a2-be4422592a37)
 
 ![Release3](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/0a195a53-61c3-49ef-9144-42b12a1cf72a)
 
-![Approve-Done](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/40e323c9-03ee-4b69-ba0b-0e2bd904ad1e)
+![image](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/f1e7b992-02b5-418c-b8a6-b0a5768b8525)
 
-![Gate-Check-Prod](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/72d6ad62-dfa7-4b93-ab13-676363a36d70)
+![image](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/26f295cb-7178-452b-9d65-aec67b1c61ff)
 
 ![Release1](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/8c9823d5-3eda-4a1a-9e15-e5eb3d08a289)
 
