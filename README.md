@@ -47,6 +47,8 @@
 
 7. Now go to the Azure portal -> Click on the Web App service -> Click on Deployment slots on the left -> Click on the Add a slot -> Name - staging -> Clone settings from - spavanraj97 -> Click on Add
 
+![WebApp](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/a7d37d2b-e8af-4762-b888-62934df02a39)
+
 
 8. Now go back to the end of Step6. -> Slot -> Now you will see staging select it -> Package or folder - $(System.DefaultWorkingDirectory)/_Netflix-Clone/drop -> Runtime Stack - 1.0 (STATICSITE|1.0) -> Click on Save -> Give name to this pipeline as NF_Clone_CD
 
@@ -75,6 +77,17 @@
 
 ![Email](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/fdf6e973-f414-45ec-a2a2-be4422592a37)
 
+![Release3](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/0a195a53-61c3-49ef-9144-42b12a1cf72a)
+
+![Gate-Check-Prod](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/72d6ad62-dfa7-4b93-ab13-676363a36d70)
+
+![Release1](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/8c9823d5-3eda-4a1a-9e15-e5eb3d08a289)
+
+![Release](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/471fb160-bb34-4e5d-8613-c753b4c204b7)
+
+![Release4](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/b948c22a-dda6-4a33-97a0-d514fdb9425d)
+
+
 
 13. Now access the Web App Service URL prod which should show you the application 
 
@@ -84,3 +97,13 @@
 13. Now go to the Azure portal -> Click on the Web App service -> Click on Deployment slots on the left -> You will see the 100% traffic is directed to the prod URL -> Click on Swap on the top -> Source - staging | Target - prod -> Click on Swap
 
 ![Deployment-slots](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/9966aa4f-2204-4d0a-bea6-975adb388505)
+
+![SWAP](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/4ed524ad-f6a5-44e0-b357-d88b02243864)
+
+![Staging](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/9b5fbd28-552c-4cf6-93d0-118e8f0c5aa7)
+
+---
+
+### Below is the self hosted Agent I have used as Ubuntu Server running on EC2 AWS:
+
+![AgentPool](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/55980290-5376-4c2a-8cb2-95c561a01711)
