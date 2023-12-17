@@ -23,14 +23,14 @@
 
 4. Now go to Boards -> Work items -> Click on New Work Item -> Select Task -> Name - Qaulity gate check ->  State - Doing  -> Click on Save 
 
-Now go to Queries on the left -> Click on + New queries -> Feild - Priority | Operator - = | Value = 1 -> Click on + New queries -> Feild - State | Operator - <> | Value = Done -> Remove all other filters -> Click on Save query -> Name - P1_Tasks | New folder - Shared Queries -> Click on OK
-
-Now go back to the Boards -> Work items -> Select the created Work Item -> Change the Priority - 1 -> Click on Save
-
-Now go back to the Boards -> Queries again -> Click on P1_Tasks -> Shows one item -> Click on the Charts section -> Group by - Work Item Type -> Click on Save chart
-
-Now again go back to the Boards -> Queries again -> Click on P1_Tasks -> Click on the More Actions -> Click on Security -> Search for Netflix Clone Build Service -> Read - Allow 
-
+    Now go to Queries on the left -> Click on + New queries -> Feild - Priority | Operator - = | Value = 1 -> Click on + New queries -> Feild - State | Operator - <> | Value = Done -> Remove all other filters -> Click on Save query -> Name - P1_Tasks | New folder - Shared Queries -> Click on OK
+    
+    Now go back to the Boards -> Work items -> Select the created Work Item -> Change the Priority - 1 -> Click on Save
+    
+    Now go back to the Boards -> Queries again -> Click on P1_Tasks -> Shows one item -> Click on the Charts section -> Group by - Work Item Type -> Click on Save chart
+    
+    Now again go back to the Boards -> Queries again -> Click on P1_Tasks -> Click on the More Actions -> Click on Security -> Search for Netflix Clone Build Service -> Read - Allow 
+    
 
 5. Now go back to the Step 3. -> In the Query Work Items -> Shared Queries -> Expand now you should see P1_Tasks (If not showing refresh the page) -> Upper threshold - 2 
 
