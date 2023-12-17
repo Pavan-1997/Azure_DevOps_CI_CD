@@ -1,5 +1,8 @@
 # Azure DevOps CI/CD
 
+![CICD](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/35d89fc5-88f0-414a-8656-54c395012c50)
+
+
 1. Go to the dev.azure.com
 
     Pipelines -> Releases
