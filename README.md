@@ -82,3 +82,5 @@
 
 
 13. Now go to the Azure portal -> Click on the Web App service -> Click on Deployment slots on the left -> You will see the 100% traffic is directed to the prod URL -> Click on Swap on the top -> Source - staging | Target - prod -> Click on Swap
+
+![Deployment-slots](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/9966aa4f-2204-4d0a-bea6-975adb388505)
