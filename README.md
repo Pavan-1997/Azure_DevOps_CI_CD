@@ -66,9 +66,15 @@
     So go back to the Boards -> Work Items -> Select the item -> Change the State from Doing to Done -> Click on Save 
     
     Now the Pre-deployment gate will succeed in next 5 minutes 
-    
 
-12. Now access the Web App Service URL prod which should show you the application 
+    For Prod Deployment you will be requiring approval - self, you will also be getting an email as below 
+
+![Approve-Done](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/b37abb9f-fb05-46d5-986a-522a2de2622e)
+
+![Email](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/fdf6e973-f414-45ec-a2a2-be4422592a37)
+
+
+13. Now access the Web App Service URL prod which should show you the application 
 
 ![Prodcution](https://github.com/Pavan-1997/Azure_DevOps_CI_CD/assets/32020205/ce7980f5-3d79-4c1f-a68e-86b8296b30d3)
 
